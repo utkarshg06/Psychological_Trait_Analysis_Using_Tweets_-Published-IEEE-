@@ -1,1 +1,2 @@
-# Psychological_Trait_Analysis_Using_Tweets_-Published-IEEE-
+# Major_Project
+This repository includes my work for our college Major Project ( Sentiment Analysis Using Twitter Tweets)
